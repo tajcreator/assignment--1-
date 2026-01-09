@@ -156,8 +156,8 @@
       /* Banner Section */
       .banner {
         background: linear-gradient(
-            rgba(34, 33, 33, 0.439),
-            rgba(76, 73, 73, 0.091)
+            rgba(224, 210, 210, 0.202),
+            rgba(125, 121, 121, 0)
           ),
           url(assets/hero-bg.png);
         background-size: cover;
