@@ -55,6 +55,12 @@
         color: white;
       }
 
+      .btn-white {
+        background-color: white;
+        color: rgb(3, 157, 103);
+        border-radius: 26px;
+      }
+ 
       .btn-primary:hover {
         background-color: var(--secondary);
         transform: translateY(-3px);
